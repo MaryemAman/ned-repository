@@ -1,0 +1,15 @@
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\bin\Debug\net8.0\Multi-Array.exe
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\bin\Debug\net8.0\Multi-Array.deps.json
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\bin\Debug\net8.0\Multi-Array.runtimeconfig.json
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\bin\Debug\net8.0\Multi-Array.dll
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\bin\Debug\net8.0\Multi-Array.pdb
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.AssemblyInfoInputs.cache
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.AssemblyInfo.cs
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.csproj.CoreCompileInputs.cache
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.sourcelink.json
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.dll
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\refint\Multi-Array.dll
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.pdb
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\Multi-Array.genruntimeconfig.cache
+C:\Users\marie\source\repos\ned-repository\Multi-Array\Multi-Array\obj\Debug\net8.0\ref\Multi-Array.dll
